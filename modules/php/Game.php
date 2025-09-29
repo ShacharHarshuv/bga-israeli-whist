@@ -18,7 +18,7 @@
 
 declare(strict_types=1);
 
-namespace Bga\Games\heartslav;
+namespace Bga\Games\israeliwhistshahar;
 
 require_once(APP_GAMEMODULE_PATH . "module/table/table.game.php");
 
